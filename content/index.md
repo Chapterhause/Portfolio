@@ -5,6 +5,7 @@ tags:
   - introduction
 ---
 
-*Test* 
+*This links to [[Packages, Crates & Modules.md|Rust Packages]]* 
 
-Follow up with [[further.md|Further Readings]]
+Follow up with [[further.md|Further Readings]].
+
