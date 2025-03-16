@@ -7,4 +7,4 @@ tags:
 
 *Test* 
 
-Follow up with [[Further Readings]]
+Follow up with [[further.md|Further Readings]]
