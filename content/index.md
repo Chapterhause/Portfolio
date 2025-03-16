@@ -1,11 +1,14 @@
 ---
 title: Homepage
 draft: false
-tags:
-  - introduction
 ---
 
-*This links to [[Packages, Crates & Modules.md|Rust Packages]]* 
+Welcome to my Portfolio. Below are attached writings & 3d projects that I have made.
 
-Follow up with [[further.md|Further Readings]].
+# Writing
 
+[[further.md|Further Readings]] can be found here.
+
+# 3D
+
+An explanation of the [[Packages, Crates & Modules.md | Rust filesystem]]
