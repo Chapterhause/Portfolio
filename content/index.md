@@ -5,7 +5,7 @@ draft: false
 
 This is an image!
 
-[[orchard.png]]
+![[orchard.png]]
 
 Welcome to my Portfolio. Below are attached writings & 3d projects that I have made.
 
