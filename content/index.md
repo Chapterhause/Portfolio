@@ -1,8 +1,8 @@
 ---
-title: Example Title
+title: Homepage
 draft: false
 tags:
-  - example-tag
+  - introduction
 ---
 
 *Test* 
