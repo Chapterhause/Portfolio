@@ -5,4 +5,6 @@ tags:
   - example-tag
 ---
 
-*Test*
+*Test* 
+
+Follow up with [[Further Readings]]
