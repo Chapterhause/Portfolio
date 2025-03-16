@@ -3,16 +3,23 @@ title: Homepage
 draft: false
 ---
 
-This is an image!
-
-![[orchard.png]]
-
-Welcome to my Portfolio. Below are attached writings & 3d projects that I have made.
+Here are my stories, dot files, and creations!
 
 # Writing
 
-[[further.md|Further Readings]] can be found here.
+- [[Nepenthe]]
 
-# 3D
+- [[Eclipse]]
 
-An explanation of the [[Packages, Crates & Modules.md | Rust filesystem]]
+- [[Slats]]
+
+
+# Configurations
+
+[NixOS Home Manager dots](https://github.com/Chapterhause/homeManager)
+
+
+# Renders
+
+Not actually mine, just a test to see if image display works
+![[orchard.png]]
