@@ -21,5 +21,5 @@ Here are my stories, dot files, and creations!
 
 # Renders
 
-Not actually mine, just a test to see if image display works
-![[orchard.png]]
+Not actually mine, just a test to see if image linking works
+[[orchard.png]]
