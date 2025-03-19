@@ -2,6 +2,7 @@
 title: Nepenthe
 tags:
   - Creative-Writing
+Description: Written in February of 2025
 ---
 My sight began when the water swirled around me, casting the sky in emerald and gold. While it surged and boiled against all others, I received only a cool, gentle touch. The current’s echoes spoke of the uneven, rocky terrain against which it supported me. Even all the way back when my sight began, I could feel a dull heat held back beyond the waves. This piercing eye of fire stared back at me, stared at my universe, and slowly erased its harmony. A dry wind made its home here, sucking particles from the ground, the soothing balm of the water dried, but it all somehow left me behind. Where did that organ go, the colossal, salty one that soothed my pain and dazzled my eyes with gems?
 

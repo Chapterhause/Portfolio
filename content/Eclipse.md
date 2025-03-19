@@ -2,6 +2,7 @@
 title: Eclipse
 tags:
   - Creative-Writing
+Description: Written in February & March of 2025
 ---
 The sun sat cold and dark in a cloudless sky. A ring of white light was smeared across the black star. On the horizon, the air turned pale and warm as if dawn was coming. All this passed coolly and mechanically, merely because of one object racing in a circle around another. 
 
