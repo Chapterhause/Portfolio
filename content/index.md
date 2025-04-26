@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Homepage
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I'm a junior in highschool who experiments with NixOS, Blender, and writing in my free time. This website hosts my work.
