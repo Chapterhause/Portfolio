@@ -9,7 +9,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Obsidian": "https://obsidian.md/",
+      "Blender": "https://www.blender.org/download/",
     },
   }),
 }
@@ -22,7 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+//    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
@@ -41,8 +42,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+//    Component.Graph(),
+//    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
